@@ -4,7 +4,7 @@
 
 ## Introduction 
 
-This privacy policy ("Policy") describes how we collect, use, share, and protect your information when you use our CompTIA Acronyms app on your iOS or Android device. 
+This privacy policy ("Policy") describes how we collect, use, share, and protect your information when you use our CompTIA Acronyms app on your device. 
 
 
 
